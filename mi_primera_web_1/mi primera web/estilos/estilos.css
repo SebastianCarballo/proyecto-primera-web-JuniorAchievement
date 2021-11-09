@@ -1,0 +1,82 @@
+
+body {
+    background-image: url(../imagenes/espacio2.jpg);
+
+}
+
+header {
+     background-image: url(../imagenes/espacio.jpg);
+     border:solid 4px gray;
+    
+    
+}
+
+nav {
+    background-color: aquamarine;
+}
+
+#articulo_1 {
+    border: 4px solid gray
+  
+}
+#articulo_2 {
+    border: 4px solid gray
+  
+}
+
+#seccion_1 {
+    border: 4px solid gray
+   
+}
+
+footer {
+    background-color: black;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+#astro {
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:48px;
+
+}
+
+#niño {
+    border:solid 4px gray;
+}
+
+#parrafo_1 {
+    text-align: center;
+    color:black;
+    font-size: 25px;
+}
+
+p {
+    color: white;
+}
+#navegacion_1 {
+    border: solid 4px gray;
+}
+#sistema {
+    color: white;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#sistema_solar {
+    color: white;
+    font-size: 30px;
+}
+
+#sistema_solar_2 {
+    padding:20px
+   
+}
+#video_1{
+    padding:20px
+    
+}
+#texto_planeta {
+    font-size: 20px;
+    font-weight: bold;
+}
